@@ -118,3 +118,10 @@ Tempo máximo: 3 minutos
 ## 📚 Contexto Acadêmico
 
 Projeto desenvolvido para disciplina de Edge Computing aplicado ao desafio proposto para a Vinheria Agnello.
+
+Integrante:
+
+Gustavo Romero - 571271
+Gustavo Moita - 569180
+Bruno Carreiro - 569423
+Daniel Graciano - 568886
